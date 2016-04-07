@@ -15,6 +15,10 @@ public class Employee {
 		System.out.println("This method has been added from github");
 	}
 	
+	public void modificationMethodNumbertwo(){
+		System.out.println("This method has been added from eclipse. Lets see if it shows up in Github");
+	}
+	
 	public double Computepay(){
 		System.out.println("inside employee pay");
 		return 0.0;
