@@ -11,6 +11,10 @@ public class Employee {
 		this.number=number;
 	}
 	
+	public void modificationMethod(){
+		System.out.println("This method has been added from github");
+	}
+	
 	public double Computepay(){
 		System.out.println("inside employee pay");
 		return 0.0;
