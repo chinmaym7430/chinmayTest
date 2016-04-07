@@ -20,7 +20,9 @@ public class Employee {
 	}
 	
 	public void modificationMethodNumberThree(){
-		int a,b,c;
+		int a;
+		int b = 0;
+		int c = 0;
 		if(c!=0){
 			a=b/c;
 		}else{
