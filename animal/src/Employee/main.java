@@ -3,7 +3,7 @@ package Employee;
 public class main {
 
 	public main() {
-		Employee e=new Employee("Chinmay", "flat no.6", 985103);
+		Employee e=new Employee("Name","Address",90);
 		e.mailCheck();
 	}
 
